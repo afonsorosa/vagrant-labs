@@ -1,0 +1,18 @@
+# VAGRANT STUFF 
+acceptance_config.yml
+boxes/*
+/.vagrant
+/website/.vagrant
+/website/build
+/vagrant-spec.config.rb
+test/vagrant-spec/.vagrant/
+
+# Managers RUBY MANAGERS
+.rbenv
+.rbenv-gemsets
+.ruby-gemset
+.ruby-version
+.rvmrc
+
+# VAGRANT BOXS
+test/vagrant-spec/boxes/*.box
