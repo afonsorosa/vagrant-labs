@@ -16,3 +16,4 @@ test/vagrant-spec/.vagrant/
 
 # VAGRANT BOXS
 test/vagrant-spec/boxes/*.box
+.log
